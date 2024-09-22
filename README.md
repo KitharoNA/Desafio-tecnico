@@ -41,7 +41,12 @@ Instale as dependências:
 npm init -y
 npm install express pg dotenv
 ```
+Crie um arquivo .env na raiz do projeto com a seguinte função:
 
+```bash
+MONGODB_URI=mongodb://localhost:27017/desafio
+PORT=3000
+```
 Inicie o servidor:
 
 ```bash
