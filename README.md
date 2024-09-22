@@ -41,7 +41,6 @@ Instale as dependências:
 npm init -y
 npm install express pg dotenv
 ```
-Configure as variáveis de ambiente:
 
 Crie um arquivo .env na raiz do projeto com as seguintes função:
 
